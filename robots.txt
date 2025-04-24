@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /index.html
+Allow: /
+
+# Don't index privacy and terms pages
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Sitemap location
+Sitemap: https://animerangersxcode.org/sitemap.xml
